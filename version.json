@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "url": "https://cdn.jsdelivr.net/gh/SawaKawaRinta/Icon_maker@main/app-release.apk?v=1.1",
+  "notes": "• 新增检查更新：冷启动静默检查 + 设置页手动检查\n• 应用内下载更新包并直接拉起安装器\n• 多个更新源自动回退（jsDelivr / gcore / raw）\n• 修复裁剪页滚动手势与缩放冲突"
+}
