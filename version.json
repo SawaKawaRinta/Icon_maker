@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "url": "https://raw.githubusercontent.com/SawaKawaRinta/Icon_maker/main/app-release.apk?v=1.0",
-  "notes": "首个正式版本\n• iOS 液态玻璃图标渲染\n• 批量平铺 + 就地裁剪\n• 圆角/高光/内阴影/染色实时调节\n• 一键导出 1024 到相册"
+  "versionCode": 2,
+  "versionName": "1.0.2",
+  "url": "https://raw.githubusercontent.com/SawaKawaRinta/Icon_maker/main/app-release.apk?v=1.0.2",
+  "notes": "• 连续曲率圆角（直边 + G2 拐角）\n• 裁剪页应用自定义底色\n• 全应用锁定竖屏\n• 导出图不再留 1px 透明边\n• 参数面板：标题/下滑提示/恢复默认\n• 修复检查更新拉到 CDN 旧版本的问题"
 }
