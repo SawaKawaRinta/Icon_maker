@@ -2,5 +2,5 @@
   "versionCode": 3,
   "versionName": "1.0.3",
   "url": "https://raw.githubusercontent.com/SawaKawaRinta/Icon_maker/main/app-release.apk?v=1.0.3",
-  "notes": "• 连续曲率圆角（直边 + G2 拐角）\n• 裁剪页应用自定义底色\n• 全应用锁定竖屏\n• 导出图不再留 1px 透明边\n• 参数面板：标题/下滑提示/恢复默认\n• 修复检查更新拉到 CDN 旧版本的问题"
+  "notes": "• 修复无法正常安装。"
 }
