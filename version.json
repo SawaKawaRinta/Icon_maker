@@ -1,6 +1,6 @@
 {
   "versionCode": 1,
   "versionName": "1.0",
-  "url": "https://cdn.jsdelivr.net/gh/SawaKawaRinta/Icon_maker@main/app-release.apk?v=1.0",
+  "url": "https://raw.githubusercontent.com/SawaKawaRinta/Icon_maker/main/app-release.apk?v=1.0",
   "notes": "首个正式版本\n• iOS 液态玻璃图标渲染\n• 批量平铺 + 就地裁剪\n• 圆角/高光/内阴影/染色实时调节\n• 一键导出 1024 到相册"
 }
