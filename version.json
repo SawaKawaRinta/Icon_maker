@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.3",
+  "versionCode": 1,
+  "versionName": "1.0.0.1",
   "url": "https://raw.githubusercontent.com/SawaKawaRinta/Icon_maker/main/app-release.apk?v=1.0.3",
-  "notes": "• 修复无法正常安装。"
+  "notes": "修复一下已知问题"
 }
