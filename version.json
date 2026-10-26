@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4.1",
+  "versionCode": 6,
+  "versionName": "1.0.4.2",
   "url": "https://raw.githubusercontent.com/SawaKawaRinta/Icon_maker/main/app-release.apk?v=1.0.4",
-  "notes": "修复一下已知问题。\n加入白色遮罩层功能。"
+  "notes": "修复一下已知问题。"
 }
