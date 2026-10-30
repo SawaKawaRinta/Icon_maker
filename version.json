@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.4.6",
-  "url": "https://raw.githubusercontent.com/SawaKawaRinta/Icon_maker/main/app-release.apk?v=1.0.4.6",
-  "notes": "· 修复系统低于Android14及以下访问官网卡片过长的问题。\n\n· 修复图标制作器渲染无法渲染至正圆边缘弧度的问题。"
+  "versionCode": 11,
+  "versionName": "1.0.4.7",
+  "url": "https://raw.githubusercontent.com/SawaKawaRinta/Icon_maker/main/app-release.apk?v=1.0.4.7",
+  "notes": "· 新增功能/图标制作器导入png透明像素无法选择图标背景底色的建议。"
 }
