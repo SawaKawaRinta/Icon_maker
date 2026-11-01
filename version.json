@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.4.7",
-  "url": "https://raw.githubusercontent.com/SawaKawaRinta/Icon_maker/main/app-release.apk?v=1.0.4.7",
-  "notes": "· 新增功能/图标制作器导入png透明像素无法选择图标背景底色的建议。"
+  "versionCode": 12,
+  "versionName": "1.0.4.8",
+  "url": "https://raw.githubusercontent.com/SawaKawaRinta/Icon_maker/main/app-release.apk?v=1.0.4.8",
+  "notes": "· 添加图像修改功能"
 }
